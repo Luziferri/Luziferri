@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Luziferri</h1>
+  <h1>Ricardo</h1>
   <h3>Programador & Web Designer</h3>
 
 <p>
