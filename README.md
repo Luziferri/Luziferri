@@ -1,5 +1,5 @@
 <h1 align="left">Olá, eu sou o Luziferri 👋</h1>
-<h3 align="left">Engenheiro de Software & Entusiasta Open Source</h3>
+<h3 align="left">Programador & Web Designer </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Luziferri&label=Visualiza%C3%A7%C3%B5es&color=9c27b0&style=flat-square" alt="Luziferri" />
@@ -12,9 +12,8 @@
   Sou um desenvolvedor focado na criação de soluções escaláveis e eficientes. Acredito na escrita de código limpo e na melhoria contínua através da aprendizagem de novas arquiteturas.
 </p>
 <ul align="left">
-  <li>🔭 Atualmente estou a trabalhar em projetos de <b>Inovação Tecnológica</b>.</li>
-  <li>🌱 Estou a aprofundar conhecimentos em <b>Arquitetura de Software</b>.</li>
-  <li>⚡ Facto curioso: Transformo café em linhas de código funcionais.</li>
+  <li>🌱 Estou na equipa de desenvolvimento do <b>Nexum Domotics</b>.</li>
+  <li>⚡ Atualmente a estudar no IPS no curso GSI </li>
 </ul>
 
 <br>
