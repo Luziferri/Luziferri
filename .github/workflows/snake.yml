@@ -1,1 +1,38 @@
 
+name: Generate Snake
+
+on:
+  # Executa automaticamente à meia-noite
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Permite executar manualmente na aba "Actions" para testar
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # Nome do utilizador
+          github_user_name: Luziferri
+          # Onde os ficheiros SVG serão guardados
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # A cobrinha vai ser guardada num branch separado chamado "output"
+          # para não sujar o teu código principal
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
