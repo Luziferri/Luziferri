@@ -3,10 +3,10 @@
   <h3>Programador & Web Designer</h3>
 
 <p>
-    <a href="https://linkedin.com/in/TEU-LINKEDIN-AQUI" target="_blank">
+    <a href="https://www.linkedin.com/in/ricardo-janz-b06b7124b/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:exemplo@gmail.com">
+    <a href="mailto:rjcjanz@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=Luziferri&label=Visualiza%C3%A7%C3%B5es&color=9c27b0&style=for-the-badge" alt="Views" />
