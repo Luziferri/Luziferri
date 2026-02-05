@@ -1,63 +1,64 @@
-<div align="center">
+# Olá, sou o Luziferri. 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luziferri!+%F0%9F%91%8B;Engenharia+de+Software+%26+Inova%C3%A7%C3%A3o;A+transformar+ideias+em+c%C3%B3digo;Explore+os+meus+reposit%C3%B3rios!" alt="Typing SVG" />
-  </a>
+> Engenheiro de Software | Entusiasta Open Source | Focado em Inovação
 
-  <h3>🧬 Sobre Mim</h3>
-  
-  <p align="center">
-    Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis.<br>
-    O meu foco atual é explorar novas arquiteturas e contribuir ativamente para a comunidade Open Source.
-  </p>
+[![Profile Views](https://img.shields.io/badge/Visualiza%C3%A7%C3%B5es_de_Perfil-000?style=flat-square&logo=github&labelColor=black&color=9c27b0)](https://github.com/Luziferri)
 
-  <img src="https://komarev.com/ghpvc/?username=Luziferri&label=Visualiza%C3%A7%C3%B5es&color=9c27b0&style=for-the-badge" alt="Luziferri" />
+---
 
-  <br><br>
+### 👨‍💻 Sobre Mim
 
-  ---
+Sou um desenvolvedor focado na criação de soluções escaláveis e eficientes. O meu objetivo é transformar requisitos complexos em código limpo e de fácil manutenção.
 
-  <h3>🛠️ Stack Tecnológica</h3>
+* 🔭 Atualmente estou a trabalhar em projetos pessoais focados em **[Insere aqui a tua área principal, ex: Desenvolvimento Web / Automação]**.
+* 🌱 Estou a aprofundar conhecimentos em **Arquitetura de Software e [Outra tecnologia]**.
+* 💬 Estou disponível para colaborar em projetos **Open Source** interessantes.
 
-  <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </div>
+---
 
-  <br><br>
+### 🛠️ Competências Técnicas
 
-  <div align="center">
-    <a href="https://github.com/Luziferri">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luziferri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-    </a>
-    <a href="https://github.com/Luziferri">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luziferri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-    </a>
-  </div>
+Utilizo uma abordagem pragmática na seleção de ferramentas, escolhendo a tecnologia certa para cada desafio.
 
-  <br>
+**Linguagens Principais**
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luziferri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=0d1117" alt="git-streak" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <br><br>
-  ---
+**Frameworks & Ferramentas**
 
-  <h3>📫 Vamos conversar?</h3>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/TEU-USUARIO-AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a href="mailto:exemplo@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-    </a>
-  </p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+---
+
+### 📈 Métricas do GitHub
+
+Uma visão geral da minha atividade e contribuições na plataforma.
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luziferri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&bg_color=0D1117)
+
+<br>
+
+<a href="https://github.com/Luziferri">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luziferri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9c27b0&icon_color=9c27b0"/>
+</a>
+<a href="https://github.com/Luziferri">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luziferri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9c27b0"/>
+</a>
+<br clear="left"/>
+<br>
+
+---
+
+### 📮 Contactos Profissionais
+
+Vamos conversar sobre tecnologia ou oportunidades de colaboração.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TEU-LINKEDIN-AQUI)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exemplo@gmail.com)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Luziferri/Luziferri/raw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Luziferri/Luziferri/raw/output/github-contribution-grid-snake.svg">
