@@ -32,20 +32,12 @@
 <br>
 
 <h3 align="left">📈 Estatísticas</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luziferri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=0D1117" alt="Luziferri Streak" />
-</p>
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luziferri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9c27b0&icon_color=9c27b0" alt="Luziferri Stats" />
-    </td>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luziferri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9c27b0" alt="Luziferri Langs" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Luziferri&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=9c27b0&icon_color=9c27b0" alt="Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Luziferri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9c27b0" alt="Langs" />
+</div>
 
 <br>
 
