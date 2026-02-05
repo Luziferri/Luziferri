@@ -1,3 +1,8 @@
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Luziferri!+%F0%9F%91%8B;Bem-vindo+ao+meu+universo.;Code+%2B+Coffee+%3D+%E2%9D%A4%EF%B8%8F;D%C3%A1+uma+olhada+nos+meus+repos!" alt="Typing SVG" />
+  </a>
 
   <h3>🧬 Sobre Mim</h3>
   
